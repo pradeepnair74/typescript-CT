@@ -1,1 +1,1 @@
-console.log('hello world how are you!');
+console.log('This is a typescript ct');
